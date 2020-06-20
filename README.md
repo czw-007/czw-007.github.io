@@ -1,5 +1,5 @@
 # Testing-outline
-An overview of javascript
+An overview of testing
 
 - [Online](https://czw-007.github.io/Testing-outline)
 
