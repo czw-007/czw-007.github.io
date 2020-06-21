@@ -15,6 +15,6 @@
 
 - [接口测试](https://czw-007.github.io/testing-summary.html)
 
-- [性能测试](https://czw-007.github.io/testing-summary.html)
+- [性能测试](https://czw-007.github.io/post/# 性能测试理论.md)
 
 - [安全测试](https://czw-007.github.io/testing-summary.html)
